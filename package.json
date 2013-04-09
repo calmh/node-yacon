@@ -3,7 +3,7 @@
   "name": "yacon",
   "description": "Yet another colored console logger.",
   "version": "1.0.1",
-  "main": ".lib/yacon.js",
+  "main": "./lib/yacon.js",
   "homepage": "https://github.com/calmh/node-yacon",
   "repository": {
     "url": "https://github.com/calmh/node-yacon.git"
