@@ -49,6 +49,8 @@ function main() {
 
 main();
 ```
+
+![Example Output](https://raw.github.com/calmh/node-yacon/master/example.png)
  
 License
 -------
